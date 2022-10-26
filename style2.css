@@ -549,53 +549,62 @@ a {
     padding-top: 20px;
 }
 
-.rodape-menu {
+.final {
     background-image: url('img/rectangle61.png');
-    display: flex;
+
 }
 
-.rodape-menu img {
-    margin-left: 96.67px;
-    margin-top: 108px;
+.final img {
+    width: 23.67px;
+    height: 23.67px;
+    left: 96.67px;
+    top: 3534.67px;
+    background: url('img/rectangle05.png');
+    border-radius: 172.5px;
 }
 
-.rodape-menu h1 {
+.final h1 {
+    width: 189px;
+    height: 30px;
+    left: 131px;
+    top: 3531px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     color: #FFFFFF;
-    margin-left: 130px;
-    margin-right: 100px;
+
 }
 
-.rodape-menu ul {
+.final-menu ul {
     display: flex;
     list-style: none;
 }
 
-.rodape-menu li {
+.final-menu li {
+    width: 451px;
+    height: 27px;
     left: 876px;
-    top: 3531px;
+    top: 3533px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 27px;
     color: #FFFFFF;
-    margin-right: 30px;
 }
 
-.rodape-menu h3 {
+.final h3 {
+    color: #FFFFFF;
     width: 337px;
     height: 21px;
+    left: 514px;
+    top: 3610px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
     color: #FFFFFF;
-    margin-top: 30px;
-    margin-bottom: 50px;
 }
